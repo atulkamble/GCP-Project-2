@@ -1,4 +1,4 @@
-# GCP-Project-2
+# gcp-cicd-gke
 
 Here's a step-by-step tutorial for **Automating CI/CD pipelines using Google Cloud Build and GKE (Google Kubernetes Engine)**:
 
